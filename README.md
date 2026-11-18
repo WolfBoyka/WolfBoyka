@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @WolfBoyka
-- 👀 I’m interested in DevOps computing, indeed I come from Developer's world
-- 🌱 I’m currently learning Infra as Code, Cloud Computing, Linux system administration and CI/CD / Container (and English !)
-- 💞️ I’m looking to collaborate on nothing special for now, but perhaps some projects in the future
-- 📫 How to reach me : nothing to do !
+Welcome! I'm Wolf 🐺
 
-<!---
-WolfBoyka/WolfBoyka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm interested in DevOps, Information Systems Management, Cloud Computing, and Artificial Intelligence. My background is in software development and application service management.
+
+🌱 I'm currently working with:
+- Infrastructure as Code (IaC): Ansible, Terraform
+- Cloud: Microsoft Azure
+- Containers & Orchestration: Docker, Kubernetes, OpenShift
+- Linux: Ubuntu / WSL
+- CI/CD & Version Control: Git, GitHub Actions, Jenkins
+- AI: ChatGPT and AI-assisted development
+📫 Connect with me on LinkedIn: https://www.linkedin.com/in/olivier-camus-engineer/
