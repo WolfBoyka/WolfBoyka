@@ -9,4 +9,5 @@ Welcome! I'm Wolf 🐺
 - Linux: Ubuntu / WSL
 - CI/CD & Version Control: Git, GitHub Actions, Jenkins
 - AI: ChatGPT and AI-assisted development
+
 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/olivier-camus-engineer/
